@@ -1,0 +1,9 @@
+{"macIds": ["1","2"] , "roomId": "1"}
+
+{"macIds": ["1"] , "roomId": "1"}
+
+
+{"macIds": ["3","4"] , "roomId": "2"}
+
+{"macIds": ["3"] , "roomId": "2"}
+
